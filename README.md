@@ -1,19 +1,8 @@
-# Mad Libs Python
-
-A lightweight, interactive command-line interface (CLI) application for generating dynamic stories through user-provided lexical inputs.
-
----
-
-## Overview
 
 **Mad Libs Python** is a terminal-based implementation of the classic word game. This project serves as a demonstration of basic Python input/output handling, string manipulation, and control flow.
 
-## Features
-
-* **Interactive CLI:** Real-time prompts for user input.
-* **Dynamic Story Generation:** Instantaneous compilation of story templates.
-* **Zero Dependencies:** Runs on standard Python libraries without additional overhead.
-* **Lightweight:** Minimal memory footprint and fast execution.
+## Language Note
+It is better not to use profanity while playing this game. The idea is to keep it enjoyable and suitable for all ages. While the output depends on the words you enter, using clean and creative inputs generally leads to better results.
 
 ## Getting Started
 
