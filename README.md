@@ -20,10 +20,12 @@ It is better not to use profanity while playing this game. The idea is to keep i
 ### Installation
 
 1.  **Clone the repository:**
+   
     ```bash
     git clone [https://github.com/prakharr3act/Madlibs_Python.git](https://github.com/prakharr3act/Madlibs_Python.git)
     ```
-2.  **Navigate to the project directory:**
+3.  **Navigate to the project directory:**
+   
     ```bash
     cd Madlibs_Python
     ```
