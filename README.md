@@ -3,7 +3,6 @@
 
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 An interactive command-line interface (CLI) application that recreates the classic Mad Libs experience. This project demonstrates foundational Python concepts including standard I/O, string interpolation, and logical control flow.
 
